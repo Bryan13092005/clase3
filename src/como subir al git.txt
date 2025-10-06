@@ -1,0 +1,6 @@
+1. git init
+2. git add .
+3. (solo si sale advertencia) git config --global core.autocrlf true
+4. git commit -m "COMIT"
+5. git remote add origin https://github.com/Bryan13092005/******.git
+6. git push -u origin main
