@@ -1,0 +1,10 @@
+la plantilla es conocida como clase
+las variables son atributos
+a partir de la plantilla salen los objetos
+las funciones se llaman metodos
+instancias son la creación de objetos
+que es clase,que es objeto, que es atributo y que es un método
+1.CLASE: es una plantilla, molde que define la estructura o comportamiento de un objeto (tiene atributos)
+2.OBJETO: es una instancia, un objeto real con sus atributos
+3.ATRIBUTOS: características o propiedades de los objetos
+4.MÉTODO: son las acciones o funciones
